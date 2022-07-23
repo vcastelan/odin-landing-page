@@ -112,6 +112,27 @@ button {
     display: flex;
     justify-content: flex-end;
 }
+
+.body4 {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action {
+    background-color: #3882f6;
+    width: 480px;
+    border-radius: 5px;
+    display: flex;
+    padding: 16px;
+}
+
+.header-call {
+    font-weight: bold;
+    font-size: 18px;
+    color: #f9faf8;
+}
 .footer {
     background-color: #1f2937;
     font-size: 18px;
