@@ -96,13 +96,22 @@ button {
     color: gray;
 }
 
-.third-content {
+.body3 {
     background-color: #e5e7eb;
+    padding: 150px;
+}
+
+.quote{
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
-}
 
+}
+.subject {
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
 .footer {
     background-color: #1f2937;
     font-size: 18px;
