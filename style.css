@@ -125,10 +125,9 @@ button {
 }
 
 .body4 {
-    height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    padding: 150px;
 }
 
 .action {
