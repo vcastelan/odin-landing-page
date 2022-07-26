@@ -134,22 +134,28 @@ button {
 }
 
 .header-call {
-    font-weight: bold;
-    font-size: 24px;
     color: #f9faf8;
 }
 
+.call {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0;
+}
 
 .form {
-    color: #f9faf8;
     font-size: 18px;
+}
+
+.signbutton {
+    border: 2px solid white;
 }
 
 .footer {
     background-color: #1f2937;
     font-size: 18px;
     color: #e5e7eb;
-    padding: 50px 0px;
+    padding: 40px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
