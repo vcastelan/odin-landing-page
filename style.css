@@ -35,29 +35,15 @@ img {
     width: 250px;
 }
 
-.body {
-    display: flex;
-    flex-direction: column;
-}
-
 .body1 {
     display: flex;
     justify-content: space-evenly;
     background-color: #1f2937;
-    padding: 150px;
+    padding: 100px 0px;
 }
 
 .content {
     width: 400px;
-}
-
-.picture {
-    display: flex;
-    justify-content: center;
-}
-
-.image1 {
-    width: 500px;
 }
 
 .Main {
@@ -80,6 +66,15 @@ button {
     padding: 5px 30px;
 }
 
+.picture {
+    display: flex;
+    justify-content: center;
+}
+
+.image1 {
+    width: 500px;
+}
+
 .body2 {
     text-align: center;
 }
@@ -94,17 +89,14 @@ button {
 .middle-content {
     display: flex;
     justify-content: center;
-    gap: 80px;
+    gap: 50px;
     padding-bottom: 100px;
-}
-
-.info {
-    max-width: 200px;
 }
 
 .text {
     font-size: 18px;
     color: gray;
+    width: 250px;
 }
 
 .body3 {
